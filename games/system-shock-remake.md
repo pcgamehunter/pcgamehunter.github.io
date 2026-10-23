@@ -11,8 +11,7 @@
 - 
 
 # Medical
-- 3 radioactive zones
-- Armory code is 705
+<img src="/games/images/system-shock/medical-map.png" alt="Map of the Medical Level" width="1280"/> 
 
 # Research
 - Go through the teleporter to access the resurrector immedietly.

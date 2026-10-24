@@ -1,0 +1,204 @@
+### Leysha - Scene 03 (Unification Party)
+- Entrance
+	- Walk up to the officers
+	- ◆ Safe Zone - Locker Room
+	- Use Obsfuscate to get past the officers
+	- Obsfuscate 2🌢 Copy uniform (officer without the reflective jacket)
+	- Go back into the Safe Zone and change disguise.
+- Talking with **Newman**
+	- [Deduction 1] The feds are here?
+- Cross the line 2🌢
+- ***Confrontation with Halsey 1***
+	- Two phases, zero misses
+	- *Be aware you can't focus against Hasley and her stats match yours*
+	- Phase 1
+		- [Persuasion X] There's nothing to be afraid of (Guaranteed Fail)
+		- [Psychology X] I'm not feeling sure of myself either (Guaranteed Fail)
+		- Let's take a timeout (Pass)
+		- Now's not the time for this! (Lose)
+	- Phase 2
+		- [Rhetoric X] A hint? (Guaranteed Fail)
+		- [Dominate X] 2🌢 We don't have time for this... (Guaranteed Fail)
+		- I think it's...
+			- Fire (Pass)
+			- A ghoul (Lose)
+			- A thin-blood (Lose)
+			- I'm stumped (Lose)
+		- I have no idea (Lose)
+	- Winning the confrontation refunds 2🌢
+	- Winning all three confrontations unlocks **Mom of the Year** achievement
+- Fireplace area
+	- [Auspex 1] 2🌢 Track (wine glass)
+	- [Deduction 1] Observe blood (on couch)
+	- Briefcase (belonging to Dr. Dunham)
+		- [Auspex 3] 3🌢 See Premonition
+			- *Shows a hint of Dr. Dunham's office in a future missions*
+		- Personal Note Nr.3 on left side
+		- Dr. Dunham's floppy disk on the right side
+- Main Room
+	- Body with guts ripped out
+		- [Deduction 2] Observe carefully
+			- *Reveals the shooters use incendiary rounds* 
+		- [Education 1] Study wound
+			- *Reveals the weapon was a powerful shotgun*
+	- LR3 Marker
+		- [Auspex 1] 2🌢 Track (Ash)
+	- Tape to the balcony
+		- [Auspex 1] 2🌢 Listen Carefully (officers on balcony)
+- Talking with Captain **Paulson**
+	- [Psychology 1] He seems annoyed (loops back)
+	- Why can't we go on the balcony?
+		- [Deduction 1] The Feds... got here first?
+- Walk into bloody hallway 2🌢
+- ***Confrontation with Halsey 2***
+	- 1 phase, no misses
+	- Phase 1
+		- [Dominate X] 2🌢 You do know that Mother already gave you the answer (Guaranteed Fail)
+		- I'm stumped (Lose)
+		- I know...
+			- The cold (Pass)
+			- The Kindred (Lose)
+			- Death (Lose)
+			- You've got me. I'm stumped... (Lose)
+	- Winning the confrontation refunds 2🌢
+	- Winning all three confrontations unlocks **Mom of the Year** achievement
+- Talking with Halsey
+	- [Persuasion X] Tell her you don't (Guaranteed Fail)
+- ◆ Safe Zone - bathroom (right door)
+	- Bloody cloth
+		- [Auspex 1] 2🌢 Track (bloody cloth)
+		- [Deduction 1] Deduce origin of scent
+			- *Reveals someone tried to cover up the smell*
+	-  [Auspex 2] 2🌢 Reveal Psychometry (soap)
+		- *Shows a memory of Himiko and Miley in the bathroom. Miley got wine on the purse she received from the Prince and is upset. Miley says she'll go smoke on the balcony.*
+	- Bag and purse
+		- [Auspex 1] 2🌢 Track (bag)
+		- Miley's Speech in the bag (*Masquerade protection*)
+- Kitchen Area
+	- Talking with officer **Opuedo**
+		- *Reveals that the Feds have an address of a Red Salon*
+	- Wall and Forensics officer
+		- [Obfuscate 1] 2🌢 Copy uniform
+		- [Deduction 2] Assess damage (torn wall)
+			- *Concludes a kindred must have damaged it*
+			- [Auspex 2] 2🌢 Reveal Psychometry (torn wall)
+				- *Reveals a memory of a military unit being attacked by kindred. Another officer neutralizes Miley and stabs a stake into her heart, putting her in Torpor.*
+	- Code KI2 next to where Miley was captured
+	- Body in the wine cellar
+		- Phone containing several codes:
+			- 7246 For Ms. Iversen
+			- 5593 For Mr. Underwood
+			- 6159 For Unknown (briefcase)
+	- Briefcase in the kitchen
+		- [Obfuscate 2] 2🌢 Cloak of Concealment
+			- This will disappear the case, you can't look at what's inside.
+		- [Technology 2] Hack
+		- Code is 6159
+- Cross tape into forensics area 2🌢
+- ***Confrontation with Halsey 3***
+	- 1 phase, no misses
+	- Phase 1
+		- I know...
+			- Her childe (Pass)
+			- Her sire (Lose)
+			- You have a Blood Bond (Lose)
+			- I'm stumpted (Lose)
+		- No idea (Lose)
+	- Winning the confrontation refunds 2🌢
+	- Winning all three confrontations unlocks **Mom of the Year** achievement
+- Talking with Halsey
+	- [Persuasion X] We can't abandon him
+- ◆ Safe Zone - Storage
+- Bedroom with hanging body
+	- Talking with **Phoenix**
+		- [Psychology 1] Notice that he looks tired
+	- A vial (near EB2 label)
+		- [Education 1] Identify liquid
+			- *Reveals it's a coagulant which makes vampires weaker.*
+	- Hanging Body
+		- [Education 2] Study wound
+			- *Reveals he is still alive*
+	- Ripped of arm
+		- [Education 1] Analyze wound
+			- *Reveals it was likely done by Jara Drory*
+- ***Confrontation with Dr. Dunham*** (wow you're welcome dr.)
+	- Phase 3, misses 1
+	- **Phase 1**
+		- [Rhetoric 3] I'm on a mission (Pass on Success, Lose on Failure)
+		- [Psychology 4] He's afraid I'll my back on him (Pass on Success, Lose on Failure)
+		- I came for him! (Pass)
+		- What was he up to? (Lose)
+	- Extra dialogue
+		- [Education 1] So what? Princes have always sought us for our power.
+	- **Phase 2**
+		- She said she trusted me (Pass)
+		- She also said I should make my own decision (Lose)
+		- Nothing in particular (Pass)
+		- [Psychology 4] She told me about his treatment (Pass on Success, Lose on Failure)
+	- **Phase 3**
+		- No way! (Lose)
+		- I'll go back later (Pass)
+		- [Persuasion 3] I'm not sick anymore (Pass on Success, Lose on Failure)
+		- I'll do whatever I want! (Lose)
+	- Winning the confrontation grants "**Elusive**" which allows you to steal someones identity for rest of the mission.
+- Second Bedroom
+	- Polariod Photo (+5 willpower) in the shower
+- Agent blocking access 
+	- [Obfuscate 1] 2🌢 Copy uniform
+- Obfuscate Return to Safe Zone and change to FBI agent
+- Backtrack to the room with the fireplace
+	- You can now walk past it to the room that was blocked earlier
+- ◆ Safe Zone - IT Room
+	- Lockpicking tool (+1 Security for next interaction)
+- Auspex Activate to see wall interaction
+	- [Auspex 1] 2🌢 Pierce Obfuscate
+		- Reveals a hidden room
+- Hidden Office
+	- You will find Natasha, who will die soon after.
+	- A corpse of one of the attackers is in the room.
+	- A dead vessel and an injection is in the room.
+- Balcony (cross the tape)
+	- Pick up orange file 
+	- Talking with Agent **Philbert**
+		- Insist!
+			- [Dominate 1] 2🌢 Let me take your place!
+			- Study Files can now be picked up (*Masquerade Protection*)
+	- Soldier's corpse
+		- [Education 2] Identify logo
+			- *Reveals the emblem belongs to the Society of Saint Leopold*
+	- Magnetic Key (+1 technology for next interaction) on a flower bed
+	- Inspect large box with medicine
+		- Key from the First Aid Kit in the top left
+	- Red First Aid Box
+		- [Security 2] Pick lock
+		- Key is in a large white medicine box nearby, top left.
+		- Syringe of Adrenaline can be found inside.
+- Return to the bedroom with the hanging body and inject the adrenaline.
+		- Gives extra information on the attack, Miley and Jara
+- Return to the balcony
+	- Enter the yellow tent and talk to Agent **O'Neill**
+	- Talk to **Olsen**
+		- I could help him... (1/3 doppelganger)
+		- [Psychology 2] He's afraid of Monsignor... (2/3 doppelganger)
+		- [Dominate 1] He knows I'm a novice, just like him (3/3 doppelganger)
+	- [Obfuscate 1] 2🌢 Steal identity (On Olsen. requires Dr. Dunham's potion or Rank 4 Obfuscate)
+		- Unlocks "**Foresighted**" (-20xp cost Obfuscate)
+- **Final Choice**
+	- You have 2 options now: 
+		- One is to see Stanford while disguised as Olsen. 
+		- The other is to take one container with you and escape.
+	- There are 3 containers to choose from, only one can be taken.
+	- LR3 contains Wiktor Chen (Deceased)
+	- KI2 contains Miley Sellers (In torpor)
+	- EB2 contains Himiko Izanami (Deceased)
+- [Choice] **See Monsignor Stanford**
+	- Go to a Safe Zone to disguise as Olson, then enter the tent
+	- Stanford will instantly see through your disguise and brand you with his ring. 
+	- You learn there is a traitor within the Camarilla.
+	- You fail to save Miley.
+- [Choice] **Take KI2 box out**
+	- Disguised as an FBI agent take the box out, saving Miley.
+- [Choice] **Take any other box**
+	- You extract the dead body of Wiktor Chen or Himiko Izanami, failing your task and not learning about the traitor.
+
+**Completing all objectives awards 175 Experience.**

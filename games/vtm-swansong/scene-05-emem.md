@@ -1,0 +1,92 @@
+## Emem - Scene 05 (Prince's Tower)
+- Talking with **Hilda**
+	- [Psychology 3] What's she got against the Prince?
+	- [Psychology 3] I'm sure she's got a backup plan
+	- If you recovered your memories during Hartford, you can talk to Hilda about them
+	- [Choice] Talk about your memories together.
+		- If you talk about all the memories you unlock "**Get it off your chest**" (-20xp cost Social)
+	- When Hilda asks where you're going on your mission
+		- [Persuasion 4] Defend (Opponent skill use)
+			- *You hide your mission details from Hilda.*
+		- Don't defend yourself
+			- *You reveal the mission details to Hilda.*
+	- At the bar
+		- Hilda will walk up and drop her key on the counter.
+			- [Celerity 2] 2🌢 Snatch
+	- Atrium
+		- If Galeb confronted **Berel** he will spurn Feng saying she's of no importance to him.
+		- You can talk to him before he leaves the area and he will say he's heading to a Red Salon to do cleanup.
+		- Feng will return to the Grey Square Stones Room
+	- Grey Square Stones Room
+		- If you didn't confront Berel, evidence of a meeting with Feng can be found here.
+			- [Celerity 2] 2🌢 Track
+		- If you do confront Berel, Feng will return here shortly after talking with him in the atrium.
+		- Talking with **Feng**
+			- [Psychology 2] How is she taking things?
+			- When discussing her specialization
+				- [Education 2] I see
+	- **Nurmi**'s Office
+		- Ornate Key on her desk. (opens Underwood's apartment)
+	- **Journey**'s Office
+		- Club Business Cards (+5 willpower) on the cabinet
+		- Talking with **Journey**
+			- You can catch up with Journey a little, if Leysha cleared her and she did not run away.
+	- Roundtable room
+		- Talking with **Victoria**
+			- When discussing her emissary and the notes (must find both)
+				- [Persuasion 4] I didn't find anything else
+			- [Rhetoric 2] What does she think about Hazel?
+				- She will reveal
+			- When discussing London
+				- [Persuasion 4] I need to know what I'm up against
+					- *Victoria will tell you about the attack, many elements matching the attack on the party,*
+	- **Underwood**'s room
+		- [Security 5] Pick lock
+		- Key can be found in Nurmi's office downstairs
+	- **Hilda**'s room
+		- [Auspex 2] 2🌢 Reveal Psychometry
+			- *Reveals a memory of Hilda either obsessing over or blaming Emem.*
+		- A list of names can be found, some cross out, Emem mentions they were the men who raped her.
+		- Phone (in drawer)
+			- [Technology 3] Hack
+			- The code shape is a flipped N (seen all over the room)
+			- Hilda's Phone taken once unlocked
+	- **Dajan**'s Room
+		- A note can be found showing he left the court.
+- **Final Choice:** 
+	- At this point you can break into the Prince apartment or simply go do your mission. I highly recommend breaking-in, as a lot of interesting things can be learned at no cost to the next mission. Be aware you will encounter **Miley**, if she survived, but her dialogue check are fairly easy.
+- [Choice] Break into the Princes apartment
+	- Head to April's office and take the elevator.
+	- Entrance
+		- Club Business Cards (+5 willpower) on the table.
+		- [Auspex 2] 2🌢 Reveal Psychometry (sheet music)
+			- *Shows memory of Hazel playing Swan Lake*
+		- Inspect the sheet music for a passcode (BFDAC)
+	- Living Room
+		- Kaius' Report on Underwood can be read on the table.
+		- [Auspex 3] 2🌢 Observe in detail (book shelf)
+		- Swan
+			- [Deduction 1] Observe carefully (empty circle)
+	- Bedroom
+		- If you rescued Miley, she'll be in the bedroom.
+			- [Rhetoric 1] Change the subject. How's she doing?
+			- [Persuasion 2] Hazel sent me
+				- Succeeding unlocks "**Childer united**" (-10% Persuasion tie)
+		- Note of Hazel's childe destruction
+			- [Auspex 3] 2🌢 See premonition
+				- *Reveals an image of a brightly lid shipping container surrounded by monitors with eyes and crash screens. The sound of sharpening metal in the background.*
+		- Miniature Swan on the bookshelf area.
+	- Back to the living room.
+		- Place the Miniature Swan in the slot to get the Silver key
+		- Unlock the glass cabinet with the Silver key
+		- Press the books in the correct order (BFDAC)
+		- A secret compartment comes out under the cabinet.
+			- Three documents are inside.
+			- *First is about Hazel's interest in getting Emem's clubs.*
+			- *Second reveals Hazel is intentionally stalling Feng's embrace on advice of Berel, to keep Galeb around as long as possible.*
+			- *The third reveals Dr. Dunham killed Hasley, on Hazel's orders and is manipulating Leysha's memories.*
+	- That is all, you can leave using the elevator.
+- [Choice] Go see the Anarchs directly.
+	- That is all, you can leave using the elevator.
+	
+**Completing this mission with all objectives nets 140 Experience.**

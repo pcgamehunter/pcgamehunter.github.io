@@ -1,0 +1,85 @@
+## Galeb - Scene 05 (Prince's Tower)
+- At the bar
+	- Talking with **Feng**
+		- [Education 2] Hey I've heard that
+		- [Psychology 2] She's asking too many questions about Berel...
+		- [Intimidation 1] If she has something to tell me, she's better say it!
+	- Talk with **Sylvia**
+		- You can get some details on Feng and Sylvia during the conversation
+	- 2x ◆ Safe Zone - Alcove (both at the bar)
+- Offices
+	- Talking with **April**
+		- [Psychology 3] I've never seen her so worried
+			- *April is questioning if Hazel's reign can survives this attack. She also warns Galeb he has much to lose. Not stating it outright, but hinting at Feng.*
+- Roundtable Room (second floor)
+	- Talking with **Victoria**
+		- [Psychology 2] Defend (Opponent skill use, can defend with [Fortitude 2] 2🌢)
+			- *Galeb hides how much the departure of his Sire affects him.*
+		- [Persuasion 4] It's for Feng's own good
+			- *Victoria reveals Berel has spoken to Feng.*
+- Talking with **Hilda** (upper atrium)
+	- *This conversation triggers a bug, which locks all 3 doors leading into the atrium, requiring you to use the elevator and circling more than necessary. Reloading the save, fixes it*
+	- [Intimidation 3] It's a bad time to be hiding things
+	- [Persuasion 4] Talking to me would be in her best interest
+		- *Hilda will say she's inflating art prices with Berel.*
+- **Hilda**'s Room
+	- [Security 5] Pick lock (entrance)
+	- A file on her desk for "Cautopates" can be found.
+		- *This appears to be the same file **Lehane** was send to cleanup.*
+- **Underwood**'s Room
+	- [Auspex] 2🌢 Sense aura (Feng magazine)
+		- *Reveals Feng held this magazine, so she must have been here.*
+	- [Auspex] 2🌢 Sense aura (glass)
+- Take the elevator to -1
+- **Kaius**' Room
+	- Safe
+		- Old coin (+5 willpower) in safe as last time.
+	- Computer 
+		- [Technology 4] Hack (laptop)
+		- Code is 4965
+- Server room
+	- A note inside a toolbox, has Kaius' pc password on the last page: 4965
+- Holding cells (take stairs down)
+	- Talking with **James** (Moore's bodyguard)
+		- [Psychology 1] Calm him down
+		- *You can learn more about the events from his perspective*
+	- If you took **Jason** in, you can speak to him in the other cell.
+	- If you took **Lehane** in, you can speak to her in the other cell.
+- **Final Choice**:
+	- You have two choices.
+	- One is to confront **Berel** about speaking with Feng.
+		- Successfully intimidating him, will prevent him from interfering in your plans with Feng.
+		- Failing will continue as if you did not confront him
+	- Two is to help **Kaius**, this allows you to get some more details on Jara Drory and was she was up to.
+	- If Emem released **Kurt Densch**, he will appear in Jara's apartment and Galeb and the Prince will learn of his return.
+- [Choice] Confront Berel
+	- Go to his apartment in the Primogen block
+	- ***Confrontation with Berel***
+		- 5 phases, 2 misses
+		- **Phase 1**
+			- I decide who she can see! (Lose)
+			- [Psychology 3] This feels like one of his manipulations (Pass on Success, Lose on Failure)
+			- [Persuasion 4] Why is he trying to deceive me? (Pass on Success, Lose on Failure)
+			- I know he saw her here! (Pass) (Heard from Feng or evidence)
+		- **Phase 2**
+			- Let me worry about her (Pass)
+			- She doesn't need his advice (Lose)
+			- [Rhetoric 4] Is he talking about himself? (Pass on Success, Lose on Failure)
+		- **Phase 3**
+			- [Psychology 3] Defend (Opponent skill use, can defend with [Fortitude 2] 2🌢) (Pass on Success, Lose on Failure)
+			- Don't defend yourself (Lose)
+		- **Phase 4**
+			- [Intimidation 2] I'll last longer than he will (Pass on Success, Lose on Failure)
+			- [Persuasion 4] Feng will be ready (Pass on Success, Lose on Failure)
+			- He's being disloyal (Pass)
+			- I don't want to talk about it (Lose)
+		- **Phase 5**
+			- [Intimidation 2] Because I might lose my temper (Pass on Success, Lose on Failure)
+			- [Rhetoric 4] It would not be in his interest for this to get out (Pass on Success, Lose on Failure)
+			- I shouldn't have to explain myself (Lose)
+			- Because I'm his sire and I've got the patience to ask (Lose)
+- [Choice] Help Kaius
+- Talking to **Hazel**
+	- [Education 1] I know that place
+
+**Completing the mission with all tasks awards 225xp**

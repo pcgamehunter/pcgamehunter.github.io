@@ -1,0 +1,165 @@
+## Galeb - Scene 02 - (Jason Moore's Apartment)
+- Entrance to apartment
+	- [Deduction 2] Observe wound carefully (body neck)
+		- *Reveals the victim was attacked from behind.
+	- [Deduction 1] Observe blood (body wound)
+		- *Reveals he was shot at point-blank range.*
+	- [Education 2] Analyze blood (body wound)
+		- *The injury was post-mortem due to lack of blood.*
+- [Auspex] 2🌢 Sense aura (victims belongings)
+		- *Reveals a retainer (ghoul) is nearby*
+- Bathroom (Head left from entrance)
+	- Nothing of note
+- ◆ Safe zone in gardening storage room.
+	- [Deduction 1] Observe carefully (plant cabinet)
+- Botanic room
+	- Interact with bunny for small scene
+- Kitchen
+	- Bloody prints on trash bags.
+	- Blood inside the trash shoot.
+	- Try to enter the door with the scanner on the side, to learn how to get in.
+- Talking with the **Butler**
+	- [Intimidation 3] He needs to get a hold of himself!
+	- [Psychology 1] It's not his fault...
+	- [Presence 1] 2🌢 Calm him down
+	- [Rhetoric 3] Was she faithful?
+	- [Deduction 1] What do you mean "Acting tough"?
+- Talking with **Lena Lehane** (Second floor, left)
+	- Report on Jara Drory given immediately. (*Masquerade protection*)
+	- [Dominate 1] 2🌢 I want what she's found!
+		- Appendix on Report on Jara Drory gained. 
+	- [Dominate 1] 2🌢 Make her read the text message about the mission.
+		- *Reveals ghoul was to capture or kill Moore and destroy Cautopotus files*
+	- [Choice] Tell her to leave
+	- [Choice] Let her finish her mission
+		- *Either of these options will lead her to sabotage your mission later.*
+	- [Choice] [Dominate 1] 2🌢 Order her to leave
+		- *This choice will guarantee she leaves and will not sabotage your mission.*
+- Large office room on left
+	- Old Coins (+5 willpower) on a coffee table near computer.
+- Desk with computer
+	- Key to Jason Moore's Archives inside the drawer
+	- Button on bottom left foot of desk reveals a safe behind painting.
+- Safe
+	- [Technology 3] Hack (Code is 040911, June's birthday)
+	- Report about Dr. Dunham inside. (*Masquerade protection*)
+	- *Thank you note from Fortress Security revealing product #442462 has been installed. Cross checking with catalogue in previous room reveals, it is a panic room.*
+- Archive room
+	- [Security 3] 3◆ Pick lock (door, key in desk drawer nearby) 
+	- ◆ Safe zone in Jason Moore's archive
+	- Report about Dajan Siaka on desk. (*Masquerade protection*)
+- Office room upstairs
+	- Magnetic Key (+1 Technology for next interaction) on the desk on the right
+- Talking with **Baker**
+	- [Deduction 2] What?
+	- [Psychology 1] Seems like he's got something in mind...
+		- *The officer gives you his largely useless theory*
+	- [Persuasion 2] Do we know where Moore was coming from? (loops back)
+		- *The police are suspecting a connection to the massacre at the Unification party*
+- Go across to the right side of 2nd floor
+- **Lydia**'s office
+	- Lydia's phone can be found inside with some messages and recordings.
+- **June**'s room (directly across from Lydia's office)
+	- Journal inside her desk, reveals some details on their relationship and more...
+	- The crayon drawing board reveals the shape code for Jason's phone.
+- Master bedroom
+	- Old Coins (+5 willpower) on a coffee table.
+	- Bags on the bed
+		- Report about Berel Underwood inside the bag (*Masquerade protection*)
+		- Car Key behind the bag
+	-  Phone covered in blood (*Masquerade protection*)
+		- [Technology 3] Hack (code is an M shape)
+		- Contains photo of Lydia's murder.
+		- Contains recording revealing June has been kidnapped.
+		- Also contains a Die Hard easter egg mentioning Nakatomi Plaza
+	- Bathroom mirror
+		- Call Pura Vida (78728432)
+			- *This unlocks the secret panic room, however the room is a point of no return*
+	- Panic room door (**NO RETURN**)
+- Head downstairs using the door with a scanner (Key is given by butler)
+	- Take the elevator down to the parking lot.
+- Parking lot
+	- Talking with **Norton**
+		- [Deduction 1] What?
+	- Car behind Norton
+		- [Technology 4] Short circuit (car)
+		- Key in master bedroom behind the bag on bed.
+		- Report about Hilda McAndrews inside the trunk (*Masquerade protection*)
+			- *If you followed along, this is all the reports.*
+	- Talking with **McLane** 
+		- *He gives a few extra details.*
+		- *Another Die Hard easter egg*
+-  🌢🌢 2x rats (but Ventrue won't eat rats)
+- Security Room
+	- Talking with **Wyatt**
+		- He will go over the events of the night.
+	- Key to the parking attendant's car on the key hanger
+- Car at the end of parking lot
+	- [Auspex] 2🌢 Sense aura (trunk)
+	- [Security 2] Pick lock (trunk)
+	- Key is found inside the security room on a hanger.
+	- Thin-blood's watch (Opponent can't focus, if you're focusing. Discipline Tie +25%. Risk of focus +10%) in trunk
+- Trash disposal room
+	- Interact with a trash container to learn they're locked.
+	- [Auspex] 2🌢 Sense aura (trash container)
+	- Talk to **Wyatt** again
+- ◆ Safe zone in staff locker room (other door)
+- ***Confrontation with Wyatt***
+	- 3 phases, 1 miss allowed
+	- Phase 1
+		- [Rhetoric 2] There are limits to my patience (Pass on Success, Lose on Failure)
+		- [Intimidation 3] I don't need to explain myself (Pass on Success, Lose on Failure)
+		- I found blood in the garbage chute (must have examined it upstairs) (Pass)
+		- Just doing my due diligence (Lose)
+	- Phase 2
+		- [Rhetoric 2] He owes me more respect than that (Pass on Success, Lose on Failure)
+		- [Intimidation 3] He needs to quit playing around! (Pass on Success, Lose on Failure)
+		- Why is he being so difficult? (Pass)
+		- He's wasting my time (Lose)
+	- Phase 3
+		- [Persuasion 2] I won't touch a thing
+		- [Psychology 2] Does he really think I'm interested in that?
+			- Pass on Success, Lose on Failure
+		- I don't have to answer to him (Pass)
+		- He needs to hurry up! (Lose)
+	- Winning the confrontation unlocks the trash containers.
+	- If you listen to him, Wyatt will reveal he got his hands on **Quentin King**'s blood.
+- Trash disposal room again
+	- The second trash can on the left, contains Mr. Wu's head (a bodyguard)
+	- The trash can with the aura contains several things
+		- Lockpicking tool (+1 Security for next interaction)
+		- Quentin King's Vitae (+1 Dominate for rest of mission)
+- That is all, return upstairs into the master bedroom
+- Exit via Panic Room (**NO RETURN**)
+	- **Strongly encourage you to feed as much as possible before leaving.**
+- Panic Room
+	- Entering unlocks "**Detective**" (-15xp cost Deduction)
+- Talking with **Jason**
+	- [Psychology 1] What's his problem?
+		- *He explains his daughter was kidnapped and wife killed.*
+	- [Deduction 2] So he was at the party...
+		- *Reveals Berel made him go and someone opened fire at the party.*
+- **Extracting Jason Moore**
+	- First officer
+		- [Choice] Feed Yourself (You feed, but kill the officer)
+		- [Choice] 3🌢 Deceive Him (No violence)
+	- Second officer
+		- [Choice] Kill her
+		- [Choice] 3🌢 Erase Her Memory (No violence)
+	- Third officer pointing a gun
+		- [Choice] 3🌢 Neutralize Him (No violence)
+		- [Choice] Kill him
+	- Officers in elevator
+		- [Choice] 3🌢 Make Her Shoot Her Partner (Kills both)
+		- [Choice] Take Him Hostage (Disarm both, without bloodshed)
+	- Not killing any officers unlocks "**Make no waves**" (+15% Rhetoric Tie) and Parley achievement.
+- Final Choice
+	- If you didn't Dominate Officer **Lehane**
+		- [Choice] Let Her Take Jason (Jason lives, but is captured)
+		- [Choice] Jason Comes With Me (She kills Jason)
+	- If you Dominated Officer **Lehane**
+		- [Choice] Let Him Go (Jason leaves to save June)
+		- [Choice] Take Him To The Prince (Jason lives, but can't save June)
+
+**Mission rewards 215xp if all tasks were completed**
+**If you let Jason leave, or Lehane takes or kills him it drops to 195 Experience.**

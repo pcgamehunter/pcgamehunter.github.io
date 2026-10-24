@@ -1,0 +1,48 @@
+## Leysha - Scene 01 (Prince's Tower)
+- [Choice] Give-in to the premonition
+	- Unlocks "**Introspective**" (-20XP cost Auspex)
+- [Choice] Focus on Emem and Journey
+	- Allows you to watch the scene from Leysha's perspective.
+- **Jara**'s room
+	- Jara Drory's Notebook can be found on the nightstand by the bed.
+	- File on the Unification Party Planning can be found on a shelf on the left side, the file is red.
+		- *This evidence clears Journey of suspicion, saving her life.*
+	- A picture in the living room has the computer passcode: 1841 
+	- [Technology 3] Bypass the lock (pc) (code 1841)
+	- [Auspex 1] An obfuscated box can be seen with Auspex on the bed, but cannot be opened.
+- **Dijan**'s room
+	- [Security 6] Pick lock (Impossible)
+	- [Education 1] Use your knowledge (newpaper, read first)
+	- [Deduction 1] Study animal (dead bird)
+	- [Education 2] Analyze scene (dead bird)
+	- [Auspex 1] 2🌢 Pierce obfuscate - A secret letter can be seen in the cabinet.
+	- [Education 1] Analyze blood (knife)
+	- Polariod (+5 willpower) can be found behind the table with tarot cards.
+- Door to the top atrium
+	- [Security 5] Pick lock (Impossible)
+- Door to the Primogen rooms
+	- [Security 5] Pick lock (Impossible)
+- **Hilda**'s room
+	- A computer is in her room, but you cannot interact with it due to obfuscate.
+	- A drawer cannot be opened due to obfuscate.
+- **Underwood**'s room
+	- [Rhetoric 4] I'd better change the subject
+	- [Persuasion 4] A prince should be wary of everyone, shouldn't she?
+		- *Passing either of these, is required to be able to report to the prince about Underwood.*
+- **Dunham**'s room
+	- [Education 1] Analyze system (pc)
+	- Dr. Dunham's Floppy Disk can be found in a bag on the couch, in the room with the tub.
+		- *Insert the floppy disk into the computer to gain info on Dr. Dunham.*
+- Talk to **Halsey** 
+	- Yes let's get out of here. (***NO RETURN***)
+- Talking with **Hazel**
+	- I spoke with Berel... (Reveal Berel is self-centered)
+	- Hilda was in her room... (Reveal she's focused on Emem)
+	- I went into Dajan's rooms (Reveal Dajan prefers the Salem Chantry)
+	- I had a premonition (If you choose to give-in)
+	- I saw Emem and Journey (If you focused on their conversation)
+	- I found this security file... (Clears Journey of suspicion)
+		- Unlocks "**Merciful**" (+10% to Rhetoric tie)
+	- Reporting on Berel, Hilda, Dunham and Siaka and giving her the file on Journey unlocks "**Bootlicker**" (-30xp cost Exploration)
+
+**The mission reward is 125 Experience if all tasks were completed.**

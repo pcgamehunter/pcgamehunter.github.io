@@ -1,0 +1,132 @@
+## Emem - Scene 04 (Hartfort Chantry)
+- Note that you can unlock many Talents related to feeding on people and rats, in this level. The **Ascetic** talent is broken and cannot be unlocked.
+- Emem's cell
+	-  🌢🌢 3x rats
+	- [Education 2] Analyze Mechanism (gate, can see magic with Auspex)
+		- *Same option in all the cells*
+	- [Celerity 1] 2🌢 Blink out of the cell.
+- Triggers ***Memory of arriving at the Hartfort Chantry***
+	- *Hah, very clever, the blinks are free, because Emem already did them before.* 
+	- [Celerity 1] 0🌢 Blink across the scaffolding.
+	- [Celerity 1] 0🌢 Blink across the gap.
+	- [Celerity 1] 0🌢 Blink across to the window.
+	- Gain "**Amnesia**" (Education set to 0, until you recover 4 memories)
+- Go right from here
+	- [Celerity 1] 2🌢 Blink into the cell with a collapsed gate
+		- [Education 1] Identify coin (table)
+			- *This coin can be used to interact with a vampire while they're in Torpor (hibernating).*
+			- Thaumaturgical Coin can be picked up after you manage to identify it. (not possible until "**Amnesia**" is gone)
+		- Lockpicking Tool (+1 Security for next interaction) on the table.
+		-  [Celerity 1] 0🌢 Blink back
+	- Go further right to find a headless corpse
+		-  🌢🌢 2x rats
+		- Torn Page at the feet of headless corpse of **Victoria**'s emissary.
+- Return to Jefferson Library sign and go past it
+	- [Celerity 1] 2🌢 Blink then go left
+		- 🌢🌢 Praying man gives you Phlegmatic Resonance (Auspex)
+		- [Education 2] Analyze Mechanism (gate, can see magic with Auspex)
+		- [Celerity 1] 0🌢 Blink back
+	- [Celerity 1] 0🌢 Blink left when going back, or forward then right if on the Jefferson Library sign side.
+- Tremere library
+	- 🌢🌢 2x rats (in front of the entrance)
+	- Tremere Potion (Grants **Fleetness** from Celerity tree for this mission) on first table on the left from the entrance
+	- 2x Tremere Concoction (-5 Hunger) on a barrel on the right from the entrance.
+	- On the first table right from the entrance, is a journal from **Flemming**, containing details of **Victoria**'s emissary.
+	- **Levers in the room** (right side of room)
+		- *Now is the time to drink the Tremere Potion if you don't have Celerity Rank 2.*
+		- Only the two levers on the sides work
+		- Pulling a lever, will close the iron gate for that half of the prison, but disable the magic seal on every cell door
+		- You can access the right side of the prison without Fleetness or the Tremere Potion by blinking into one of the cells as well
+		- To enter a cell block before the gate closes, activate Celerity, stand near the levers and press and hold the Fleetness key, then activate the lever and run outside and pass under the gate, before it closes. Keep holding Fleetness until you're inside.
+		- Once inside a cell block, both sides have a lever inside that allows you to open the gate from within.
+- Face the bridge leading to the tower, turn left before it.
+	- [Celerity 1] 2🌢 Blink down
+		- Interact with the blue candle to trigger the ***Memory of Emem's Embrace***
+		- [Celerity 1] 0🌢 Blink back up
+- **Right cell block** (Facing the tower/leaving the library)
+	- *Use Fleetness to enter through the gate or Blink into the praying man's cell block to enter.*
+	- The first cell contains the 🌢🌢 praying man with Phlegmatic Resonance (Auspex)
+	- The second cell was yours, where the mission began.
+	- The third cell is collapsed and can't be entered from this side.
+		- 🌢🌢 1x rat (in front of the cell, may clip into the rubble)
+	- The fourth cell contains a 🌢🌢 woman with X Resonance (X)
+		- *If you stay for a while, the woman will complain about someone squeezing too hard, causing a bird to die.*
+	- The fifth cell
+		- Contains a 🌢🌢 man with X Resonance (X)
+		- Examine the bottles, towards the sound of thumping music, to trigger the ***Memory of Journey***.
+	- Follow the path to the end of the block
+		- [Celerity 1] 2🌢 Blink down towards the room with medical equipment.
+			- Magnetic Key (+1 Technology for next interaction) on a barrel on the right.
+			- [Auspex 2] 2🌢 Reveal Psychometry (on surgical tray)
+				- *Reveals memory of Clyde extracting resources from Kurt Densch.*
+			- [Auspex 3] ?🌢 See Premonition (on chair next to the tray)
+				*- Reveals a image of Galeb sitting, while surrounded by blades and fire on all sides. Screams of pain can be heard in the background.*
+			-  [Celerity 1] 2🌢 Blink down into the bloody red room
+				- [Auspex 2] 2🌢 Reveal Psychometry (on wall chain)
+					- *Reveals Maddox feeding a victim to the prisoner, presumably Densch*
+				- Interact with the bed to trigger ***Memory of Emem's Rape***
+					- If this is the 4th memory you got, you will lose "**Amnesia**". You can go inspect the Thaumaturgical Coin and take it.
+			- [Celerity 1] 2🌢 Blink back
+	-  Walk all the way back to the cell blocks gate
+	- Open the gate with the lever on the left side of the wall
+- **Left cell block**
+	- Enter the block using Fleetness to pass under the gate before it closes.
+	- The first cell contains a 🌢🌢 woman with X Resonance (X)
+	- The second cell contains a radio that triggers ***Memory of Escaping the Nazis***
+	- The third cell
+		- [Auspex 2] 2🌢 Reveal Psychometry (on body)
+			- *Reveals it is one of the apprentices that was forced into Torpor and used for experiments.*
+		- Use Thaumaturgical Coin to hear the apprentices mind. (On head)
+		- Tremere Brooch (Risk of focus -25%, Every 3 Discipline wins removes 4 hunger, Each Discipline causes 1 Suspicion) next to corpse
+		- 🌢🌢 2x rats
+		- [Celerity 1] 2🌢 Blink down to the strange room
+			- 🌢🌢 2x rats
+			- Touching the smashed wall triggers ***Memory of Confessing to Hilda***
+			- [Celerity 1] 2🌢 Blink up and return
+-  Walk all the way back to the cell blocks gate
+- Open the gate with the lever on the left side of the wall
+- **Cross the bridge to the tower**
+	- [Celerity 1] 2🌢 Blink up
+	- There are 3 floors, each one will have a ring puzzle.
+	- There are **2** solutions on each floor. You must complete the first, before you can do the second.
+	- The first puzzle is simply connect the channels between the pedestal you're standing on to the center, this moves blood to the center.
+	- The second involves moving the blood from the center, to the correct symbol (shown on the pedestal of each floor)
+	- Completing the first solution for each floor lets you go up one floor.
+	- Completing all second solutions unlocks floor 5 where you can choose to release **Kurt Densch**
+- Floor 04
+	- Touch the lit brazier to trigger ***Memory of Quentin King's Trial***
+- Floor 05
+	- Solve each floor a second time, to unlock.
+	- You will find the suspended body of **Kurt Densch**, a member of the Boston court and partner of **Jara Drory**.
+	- [Choice] Release Kurt
+		- He will escape and kill all the remaining Tremere in the chantry, before you get a chance to speak to them.
+		- Kurt will appear several times later in the story.
+	- [Choice] Don't release Kurt
+		- You can negotiate a deal with Hartford, Kurt will not appear in the future.
+- Exit on Floor 04 (**NO RETURN**)
+- ***Confrontation with Hartford***
+	- 4 phases, 2 misses allowed
+	- **Phase 1** 
+		- [Intimidation 1] Defend (Pass on Success, Lose on Failure)
+		- Not defending loses the phase
+	- Break in the confrontation
+		- [Deduction 2] I knew it...			
+	- **Phase 2**
+		- [Psychology 2] He knows there's no way I can prove it (Pass on Success, Lose on Failure)
+		- [Persuasion 2] If I wanted to destroy them, I wouldn't (Pass on Success, Lose on Failure)
+		- [Rhetoric 3] We would have never dared to attach them (Pass on Success, Lose on Failure)
+		- Hazel spent months preparing for that party (Pass)
+		- We had an agreement (Lose)
+	- **Phase 3**
+		- [Persuasion 2] Of course I know it! (Pass on Success, Lose on Failure)
+		- The agreement about the blood trade (likely requires reading up on it) (Pass)
+		- I don't know (Lose)
+	- **Phase 4**
+		- [Education 2] I can't negotiate in Hazel's place (loops back)
+		- A neighborhood in Boston (Pass)
+		- My place in the Primogen (Lose)
+		- Money. Lost of money. (Lose)
+	- Winning the confrontation grants "**Diplomat**" (-20xp cost Social)
+
+**The mission reward is 200 Experience if all tasks were completed.**
+**Losing the confrontation drops to 135 Experience.**

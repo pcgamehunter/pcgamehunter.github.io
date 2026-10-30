@@ -1,0 +1,14 @@
+# Merchants
+- Selling items for best prices is quite straight-forward.
+	- There are 6 types of merchants: **Blacksmiths** (Anvil) and **Armorers** (Armor), **Alchemists** (Potion) and **Herbalists** (Herb), **Innkeepers** (Mug) and **Vintners** (Bottle).
+	- Finally there are **Generic** (Satchel) merchants which **still have one of these types**. Some are innkeepers, some are alchemists, etc...
+	- Selling the correct type of item to the matching type merchant gives you most money (weapons = swordsmith, food = Innkeepers, etc...)
+- Some merchants have special prices:
+	- **Novigrad merchants generally sell for higher prices**. 10-20% more.
+	- Tomira in White Orchard buys Honeycomb at 7 a piece.
+- Where to sell sets of items.
+	- **Weapons** and **Horse Gear** -> **Blacksmiths**
+	- **Armor** -> **Armorers**
+	- **Food** and **Drink** -> **Innkeepers**
+	- Alchemy ingredients -> Herbalists/Alchemists
+	- **Jewelry** and similar (Junk) -> **Innkeepers**.

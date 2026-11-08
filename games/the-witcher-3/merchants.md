@@ -10,5 +10,5 @@
 	- **Weapons** and **Horse Gear** -> **Blacksmiths**
 	- **Armor** -> **Armorers**
 	- **Food** and **Drink** -> **Innkeepers**
-	- Alchemy ingredients -> Herbalists/Alchemists
+	- **Alchemy ingredients** -> **Herbalists**/**Alchemists**
 	- **Jewelry** and similar (Junk) -> **Innkeepers**.

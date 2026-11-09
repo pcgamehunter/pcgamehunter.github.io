@@ -1,9 +1,10 @@
 # Manuscripts
 
-Manuscripts are items that unlocks 10SP each for weapon upgrades as well as tier 2 Limit Breaks. The first 3 Volumes are available no matter the difficulty, while Vol 4-14 are only available by playing the game on **Hard Mode*. The manuscripts are obtained by defeating bosses, completing quests or winning challenge modes like the Colosseum or Simulator battles.
+Manuscripts are items that unlocks 10SP each for weapon upgrades as well as tier 2 Limit Breaks. The first 3 Volumes are available no matter the difficulty, while Vol 4-14 are only available by playing the game on **Hard Mode**. The manuscripts are obtained by defeating bosses, completing quests or winning challenge modes like the Colosseum or Simulator battles.
 
 # Chart by Chapter
-| ***Chapter*** | ***Character*** | ***Vol***           | ***Condition***                          | ***Location***                | ***Difficulty*** |
+
+| Chapter       | Character       | Vol                 | Condition                                | Location                      | Difficulty       |
 | ------------- | --------------- | ------------------- | ---------------------------------------- | ----------------------------- | ---------------- |
 | 1             | Barret          | 4                   | **Defeat** Scorpion Sentinel             | Reactor 1                     | Hard             |
 | 2             | Cloud           | 4                   | **Defeat** The Huntsman                  | Midgar Streets                | Hard             |

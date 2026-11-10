@@ -1,14 +1,17 @@
 # System Shock Remake
 
+# Subpages
+- [Puzzles](https://pcgamehunter.github.io/games/sysstem-shock-remake/puzzles)
+
 # Notes
 - All ranged weapons have modes that can be swapped by T
 	 - The pulse pistol has 3 modes with increasing power/cost!
 	 - Ballistic weapons switch ammo type with
 - Shooting cameras and CPU nodes reduces level security
 	- This unlocks new areas
-	- This does not impact respawns, respawning does seem limited up to a point.
-	- Destroying CPU nodes, spawns a wave of enemies!
-- 
+	- This does **not** impact respawns, respawning does seem limited up to a point.
+	- Destroying CPU nodes often spawns a wave of enemies!
+- In Executive there is a second "Laser Rapier". This will change the color to match your UI color in the settings. This is permanent and is set once, when picked up. So before you pick it up, figure out which color you want change the UI to it, pick it up and then set the UI back to what you actually want.
 
 # Medical
 <img src="/games/images/system-shock/medical-map.png" alt="Map of the Medical Level" width="1280"/> 

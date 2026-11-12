@@ -7,13 +7,3 @@
 
 ### Disables the Alpha Quadrant laser gate
 <img src="/games/images/system-shock/medical-puzzle-alpha-door.jpg" alt="Puzzle that deactivates the alpha quadrant laser gate" width="700"/>
-
-# L2 - Research
-
-# L3 - Maintenance
-
-# LR - Reactor
-
-# L4 - Flight Decks
-
-# L5 -

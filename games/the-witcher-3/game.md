@@ -7,3 +7,6 @@
 
 # White Orchard
 <img src="/games/images/the-witcher-3/map-white-orchard.jpg" alt="Map of White Orchard" width="1280"/>
+
+# Velen
+<img src="/games/images/the-witcher-3/map-velen.jpg" alt="Map of White Orchard" width="1280"/>

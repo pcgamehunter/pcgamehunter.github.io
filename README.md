@@ -1,12 +1,8 @@
-# Wikis
-
-Just started this up, so it's quite messy and all over the place.
-Will continue to migrate things from elsewhere here. <br>
-Todo still: Better TOC, more games, more images...
-
 Personal repository for game notes, guides, maps and more...
 
-# Games
+**TODO**: Better TOC, better layout, more games, more images...
+
+## Games
 - [Final Fantasy VII REMAKE](https://pcgamehunter.github.io/games/ff7-remake/game)
 - [System Shock Remake](https://pcgamehunter.github.io/games/system-shock-remake/game)
   - [Box Puzzles](https://pcgamehunter.github.io/games/system-shock-remake/puzzles)

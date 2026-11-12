@@ -1,4 +1,4 @@
-# Merchants
+# Selling
 - Selling items for best prices is quite straight-forward.
 	- There are 6 types of merchants: **Blacksmiths** (Anvil) and **Armorers** (Armor), **Alchemists** (Potion) and **Herbalists** (Herb), **Innkeepers** (Mug) and **Vintners** (Bottle).
 	- Finally there are **Generic** (Satchel) merchants which **still have one of these types**. Some are innkeepers, some are alchemists, etc...

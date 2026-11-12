@@ -1,6 +1,6 @@
 # System Shock Remake
 
-# Subpages
+# Sub-pages
 - [Puzzles](https://pcgamehunter.github.io/games/sysstem-shock-remake/puzzles)
 
 # Notes
